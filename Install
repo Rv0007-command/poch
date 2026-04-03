@@ -1,0 +1,4 @@
+Apt install python3-venv -y
+Python3 -m venv venv
+
+Pip install python-telegram-bot requests aiohttp deep-translator yt-dlp
